@@ -28,7 +28,7 @@ class Dashboard:
         df = self.get_dataframe()
         if not df.empty:
             fig,ax = plt.subplots()
-            ax.bar(df["Name"],df["Score"],df["category"],color="blue")
+            ax.bar(df["Name"],df["Score"],color="blue")
             plt.xticks(rotation = 45)
             ax.set_title("Score Chart")
             ax.set_xlabel("Name")
