@@ -14,4 +14,7 @@ class Dashboard:
             return True
         return False
    
-        
+    def get_dataframe(self):
+        return pd.DataFrame(st.session_state.data)
+    
+    
