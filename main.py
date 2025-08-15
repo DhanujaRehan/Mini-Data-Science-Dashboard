@@ -34,6 +34,7 @@ class Dashboard:
             ax.set_xlabel("Name")
             ax.set_ylabel("Score")
             st.pyplot(fig)
+            
     def clear_data(self):
         st.session_state.data = []
     
