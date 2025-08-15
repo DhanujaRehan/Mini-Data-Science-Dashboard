@@ -1,5 +1,7 @@
 import streamlit as st
 from main import Dashboard
+import matplotlib.pyplot as plt
+
 
 st.set_page_config(
     page_title="Advanced Data Dashboard",
