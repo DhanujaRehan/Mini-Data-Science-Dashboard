@@ -5,6 +5,18 @@ This mini dashboard allows users to input participant details (name, category, s
 
 ---
 
+## 🌐 Live Demo
+👉 [Try it here on Streamlit Cloud](https://mini-data-science-dashboard-qpvnip52erypef3lj6xspt.streamlit.app/)
+
+---
+
+## 🎥 Demo Preview
+![Dashboard Demo](https://media.giphy.com/media/26gsspf0C1F2xQG6M/giphy.gif)  
+
+*(GIF is for illustration purposes – shows a common data science workflow)*  
+
+---
+
 ## 🚀 Features
 - ➕ **Add New Entry**: Enter participant details including name, score, and category.  
 - 🧹 **Clear All Data**: Reset the dashboard with one click.  
@@ -21,4 +33,3 @@ This mini dashboard allows users to input participant details (name, category, s
 - [Matplotlib](https://matplotlib.org/) – chart visualization  
 
 ---
-
