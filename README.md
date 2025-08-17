@@ -10,10 +10,9 @@ This mini dashboard allows users to input participant details (name, category, s
 
 ---
 
-## 🎥 Demo Preview
-![Dashboard Demo](https://media.giphy.com/media/26gsspf0C1F2xQG6M/giphy.gif)  
 
-*(GIF is for illustration purposes – shows a common data science workflow)*  
+![Dashboard Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Vud2NqZnhkdGMyZ3VjOTlieDh2ZWhtZmJqZ2x2N2o0emdlaHB4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)  
+
 
 ---
 
@@ -31,5 +30,3 @@ This mini dashboard allows users to input participant details (name, category, s
 - [Streamlit](https://streamlit.io/) – interactive UI components  
 - [Pandas](https://pandas.pydata.org/) – data handling  
 - [Matplotlib](https://matplotlib.org/) – chart visualization  
-
----
